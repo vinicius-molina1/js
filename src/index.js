@@ -244,3 +244,4 @@ var objPessoa = {
 
 
 console.log(objPessoa.nome);
+console.log("bom dia");
